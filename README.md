@@ -3,7 +3,7 @@
 
 ### 💻 About Me
 
-- 🎓 I'm a computer science graduate and currently studying **Cloud Computing** at George Brown College.
+- 🎓 I'm a computer science graduate at the University of Hong Kong and currently studying **Cloud Computing** at George Brown College.
 - 🌐 I have full-stack development experience, with projects involving **web scraping**, **frontend dashboards**, and **backend APIs**.
 - 🚀 I'm passionate about building end-to-end solutions — from UI to infrastructure.
 - 🔁 I'm currently exploring how to integrate **cloud-native** technologies into my projects to improve **scalability**, **automation**, and **deployment efficiency**.
