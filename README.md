@@ -12,7 +12,8 @@
 
 ### 🔗 Let's Connect
 
-[LinkedIn]((https://www.linkedin.com/in/terry-mak/) • [Resume](https://link-to-resume.com) • [GitHub](https://github.com/ter-ry)
+[LinkedIn](https://www.linkedin.com/in/terry-mak/) • [Resume](https://link-to-resume.com) • [GitHub](https://github.com/ter-ry)
+
 
 ---
 
