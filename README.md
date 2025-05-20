@@ -12,7 +12,7 @@
 
 ### 🔗 Let's Connect
 
-[LinkedIn](https://linkedin.com/in/your-profile) • [Resume](https://link-to-resume.com) • [GitHub](https://github.com/ter-ry)
+[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/terry-mak/)) • [Resume](https://link-to-resume.com) • [GitHub](https://github.com/ter-ry)
 
 ---
 
